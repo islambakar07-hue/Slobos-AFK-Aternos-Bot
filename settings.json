@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IMA3124-Rcgw.aternos.me:57400",
+    "ip": "IMA3124-Rcgw.aternos.me",
     "port": 57400,
     "version": "",
     "try-creative": false
